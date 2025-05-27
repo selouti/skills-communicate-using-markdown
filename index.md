@@ -6,4 +6,6 @@
 
 ### header 3
 
-added 3 headers
+``` javascript
+var myVar = "Hello, world!";
+```
